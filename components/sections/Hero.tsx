@@ -86,7 +86,7 @@ export default function HeroSection() {
                 variants={item}
                 className="text-lg sm:text-xl text-slate-300 max-w-xl mx-auto lg:mx-0"
               >
-                Ryze AI deploys autonomous agents to identify, qualify, and
+                Nova deploys autonomous agents to identify, qualify, and
                 close revenue gaps on your website — 24/7.
               </motion.p>
             </div>
@@ -163,7 +163,7 @@ export default function HeroSection() {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold">
-                    Ryze Revenue Agent
+                    Nova Revenue Agent
                   </h3>
                   <p className="text-xs text-slate-400">
                     Online • Instant Reply

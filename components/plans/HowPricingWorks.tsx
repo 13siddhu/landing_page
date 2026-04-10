@@ -13,7 +13,7 @@ export default function HowPricingWorks() {
           How Pricing Actually Works
         </h2>
         <p className="text-xl text-slate-300 mb-8 leading-relaxed">
-          Ryze pricing depends on how much value it delivers to your business.
+          Nova pricing depends on how much value it delivers to your business.
         </p>
 
         <div className="grid sm:grid-cols-2 gap-4 mb-10 max-w-2xl mx-auto">

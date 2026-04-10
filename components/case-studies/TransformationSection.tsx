@@ -37,7 +37,7 @@ export default function TransformationSection() {
             From Guesswork to Growth
           </h2>
           <p className="text-lg text-slate-400">
-            See how Ryze AI transforms your funnel at every stage
+            See how Nova transforms your funnel at every stage
           </p>
         </div>
 

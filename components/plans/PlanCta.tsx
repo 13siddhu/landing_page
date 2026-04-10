@@ -98,7 +98,7 @@ export default function FinalCTA() {
 
           {/* Sub-headline */}
           <p className="cta-sub text-lg sm:text-xl text-slate-300 max-w-2xl mx-auto leading-relaxed">
-            Book a free demo and we'll map Ryze to your exact use case.
+            Book a free demo and we'll map Nova to your exact use case.
           </p>
 
           {/* CTA Button */}

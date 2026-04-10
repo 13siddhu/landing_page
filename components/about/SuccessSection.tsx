@@ -105,7 +105,7 @@ export default function SuccessMetricsSection() {
     },
     {
       value: "Faster Response Time",
-      text: "Every second matters. Ryze engages users instantly, 24/7.",
+      text: "Every second matters. Nova engages users instantly, 24/7.",
       icon: Clock,
     },
     {
@@ -158,7 +158,7 @@ export default function SuccessMetricsSection() {
 
           {/* Supporting Line */}
           <p className="text-lg sm:text-xl text-slate-400 leading-relaxed">
-            Ryze is built around one goal: helping teams convert the right
+            Nova is built around one goal: helping teams convert the right
             visitors into real business opportunities.
           </p>
         </div>
@@ -186,7 +186,7 @@ export default function SuccessMetricsSection() {
         >
           <div className="p-6 rounded-2xl bg-linear-to-r from-blue-500/5 via-cyan-500/5 to-purple-500/5 border border-blue-500/20 backdrop-blur-sm">
             <p className="text-xl sm:text-2xl text-white font-medium leading-relaxed">
-              If Ryze isn't improving conversion quality,{" "}
+              If Nova isn't improving conversion quality,{" "}
               <span className="text-blue-400">it isn't doing its job</span>.
             </p>
           </div>
@@ -201,7 +201,7 @@ export default function SuccessMetricsSection() {
         >
           <Link href="/">
             <button className="group inline-flex items-center justify-center gap-2 px-8 py-4 bg-linear-to-r from-blue-600 to-cyan-600 rounded-lg font-semibold text-white shadow-lg shadow-blue-500/30 hover:shadow-blue-500/50 hover:scale-105 transition-all duration-300">
-              See Ryze in Action
+              See Nova in Action
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </button>
           </Link>

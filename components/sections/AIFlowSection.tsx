@@ -52,7 +52,7 @@ export default function AIFlowSection() {
     {
       number: "02",
       title: "AI Starts Conversation",
-      description: "Ryze AI instantly engages with a personalized greeting.",
+      description: "Nova instantly engages with a personalized greeting.",
       icon: Sparkles,
       color: "from-cyan-500 to-purple-500",
     },
@@ -178,7 +178,7 @@ const messages: Message[] = [
         {/* Section Header */}
         <div className="text-center max-w-3xl mx-auto mb-12 lg:mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4">
-            How Ryze AI Thinks
+            How Nova Thinks
           </h2>
           <p className="text-lg sm:text-xl text-slate-400">
             Watch how our AI transforms visitors into qualified leads in
@@ -262,7 +262,7 @@ const messages: Message[] = [
                   <div className="absolute -bottom-1 -right-1 w-4 h-4 bg-green-500 rounded-full border-2 border-slate-800"></div>
                 </div>
                 <div>
-                  <h3 className="text-white font-semibold text-sm">Ryze AI</h3>
+                  <h3 className="text-white font-semibold text-sm">Nova</h3>
                   <p className="text-xs text-slate-400">
                     Online • Instant Reply
                   </p>

@@ -63,7 +63,7 @@ export default function CaseStudiesProof() {
             Proven Results Across Teams
           </h2>
           <p className="text-lg text-slate-400">
-            Real outcomes from companies running Ryze AI in production
+            Real outcomes from companies running Nova in production
           </p>
         </div>
 

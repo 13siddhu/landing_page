@@ -84,7 +84,7 @@ export default function BuiltForSection() {
 
           {/* Subheading */}
           <p className="text-lg sm:text-xl text-slate-400 leading-relaxed">
-            Ryze AI is designed for fast-moving teams that want better leads — not more noise.
+            Nova is designed for fast-moving teams that want better leads — not more noise.
           </p>
         </div>
 
@@ -110,7 +110,7 @@ export default function BuiltForSection() {
           }`}
         >
           If your website gets traffic but not enough qualified leads —{' '}
-          <span className="text-blue-400 font-semibold">Ryze is for you</span>.
+          <span className="text-blue-400 font-semibold">Nova is for you</span>.
         </p>
       </div>
 

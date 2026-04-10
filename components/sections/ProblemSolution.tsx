@@ -163,7 +163,7 @@ export default function ProblemSolution() {
                 </span>
               </div>
               <h2 className="section-heading text-3xl sm:text-4xl lg:text-[42px] xl:text-5xl font-bold text-white leading-tight">
-                Ryze AI: The Autonomous Layer for Your Growth Stack
+                Nova: The Autonomous Layer for Your Growth Stack
               </h2>
             </div>
 

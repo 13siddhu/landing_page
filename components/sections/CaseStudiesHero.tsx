@@ -82,7 +82,7 @@ export default function CaseStudiesHero() {
 
               {/* Subtext */}
               <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-slate-300 leading-relaxed max-w-2xl mx-auto lg:mx-0 mt-6 sm:mt-8">
-                See how modern teams use Ryze AI to qualify leads, increase
+                See how modern teams use Nova to qualify leads, increase
                 ROAS, and automate growth — without guesswork.
               </p>
             </motion.div>

@@ -66,7 +66,7 @@ export default function PlansHero() {
           variants={item}
           className="text-lg sm:text-xl lg:text-2xl text-slate-300 mb-10 max-w-3xl mx-auto leading-relaxed"
         >
-          Ryze adapts to your traffic, AI usage, and business goals — so you
+          Nova adapts to your traffic, AI usage, and business goals — so you
           only pay for real value.
         </motion.p>
 

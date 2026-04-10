@@ -5,7 +5,7 @@
     Next.js and GSAP to demonstrate what the modern web is capable of.
   </p>
   <br /><img
-    src="./ryzehome.jpeg"
+    src="./novahome.jpeg"
     alt="AI SaaS Landing Page Hero"
     width="800px"
     style="
@@ -105,4 +105,4 @@ AI brand identity.</p>
 <br />
 
 <br /><br />
-<div align="center">Built with ❤️ by Fayd</div>
+<div align="center">Built with ❤️ by Siddhartha</div>

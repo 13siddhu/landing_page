@@ -125,7 +125,7 @@ export default function IndustryResultsSection() {
             Results by Industry
           </h2>
           <p className="text-lg sm:text-xl text-slate-400 max-w-2xl mx-auto">
-            See how Ryze AI delivers measurable impact across different business models.
+            See how Nova delivers measurable impact across different business models.
           </p>
         </div>
 

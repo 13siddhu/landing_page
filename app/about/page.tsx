@@ -4,7 +4,7 @@ import AboutHero from '@/components/about/AboutHero'
 import BuiltForSection from '@/components/about/BuiltForSection'
 import PhilosophySection from '@/components/about/PhilosophySection'
 import SuccessMetricsSection from '@/components/about/SuccessSection'
-import WhyRyzeSection from '@/components/about/WhyRyzeSection'
+import WhyNovaSection from '@/components/about/WhyNovaSection'
 
 
 
@@ -14,7 +14,7 @@ const page = () => {
       <AboutHero />
       <PhilosophySection />
       <BuiltForSection />
-      <WhyRyzeSection />
+      <WhyNovaSection />
       <SuccessMetricsSection />
     </div>
   )

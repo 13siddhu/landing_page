@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { X, Check } from 'lucide-react';
 
-export default function WhyRyzeSection() {
+export default function WhyNovaSection() {
   const [isInView, setIsInView] = useState(false);
   const sectionRef = useRef<HTMLElement>(null);
   const dividerRef = useRef<HTMLDivElement>(null);
@@ -31,7 +31,7 @@ export default function WhyRyzeSection() {
     'Low context, low intent'
   ];
 
-  const ryzeFeatures = [
+  const novaFeatures = [
     'Real-time AI conversations',
     'Context-aware questions',
     'Instant lead qualification',
@@ -59,20 +59,20 @@ export default function WhyRyzeSection() {
         >
           {/* Label */}
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 backdrop-blur-sm mb-6">
-            <span className="text-sm font-semibold text-blue-400 uppercase tracking-wider">Why Ryze</span>
+            <span className="text-sm font-semibold text-blue-400 uppercase tracking-wider">Why Nova</span>
           </div>
 
           {/* Main Heading */}
           <h2 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold text-white mb-6 leading-tight">
             Most Tools Capture Leads.{' '}
             <span className="bg-linear-to-r from-blue-400 via-cyan-400 to-purple-400 text-transparent bg-clip-text">
-              Ryze Captures Intent
+              Nova Captures Intent
             </span>
           </h2>
 
           {/* Supporting Line */}
           <p className="text-lg sm:text-xl text-slate-400 leading-relaxed">
-            Ryze isn't another chatbot or form replacement.
+            Nova isn't another chatbot or form replacement.
             <br className="hidden sm:block" />
             It's an AI system built to understand, qualify, and route intent in real time.
           </p>
@@ -129,7 +129,7 @@ export default function WhyRyzeSection() {
             <div className="absolute inset-0 bg-linear-to-br from-red-500/0 to-slate-900/20 rounded-2xl pointer-events-none"></div>
           </div>
 
-          {/* Right Card - Ryze AI */}
+          {/* Right Card - Nova */}
           <div 
             className={`relative p-8 lg:p-10 rounded-2xl bg-slate-900/50 border border-slate-700/50 backdrop-blur-sm transition-all duration-700 hover:border-slate-600 ${
               isInView ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-8'
@@ -145,13 +145,13 @@ export default function WhyRyzeSection() {
               <div className="mb-6">
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-blue-500/10 border border-blue-500/30 mb-3">
                   <Check className="w-4 h-4 text-blue-400" />
-                  <span className="text-sm font-semibold text-blue-400">Ryze AI</span>
+                  <span className="text-sm font-semibold text-blue-400">Nova</span>
                 </div>
               </div>
 
               {/* Features */}
               <ul className="space-y-3 mb-6">
-                {ryzeFeatures.map((feature, index) => (
+                {novaFeatures.map((feature, index) => (
                   <li 
                     key={index}
                     className={`flex items-start gap-3 text-slate-200 transition-all duration-500 ${
@@ -184,7 +184,7 @@ export default function WhyRyzeSection() {
         >
           <div className="p-6 rounded-2xl bg-blue-500/5 border border-blue-500/20 backdrop-blur-sm">
             <p className="text-lg sm:text-xl text-slate-200 leading-relaxed">
-              Ryze works while your team sleeps —{' '}
+              Nova works while your team sleeps —{' '}
               <span className="text-blue-400 font-semibold">and delivers leads worth talking to</span>.
             </p>
           </div>

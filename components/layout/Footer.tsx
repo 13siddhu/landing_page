@@ -123,7 +123,7 @@ export default function Footer() {
           <div className="  col-span-2 md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <span className="footer-heading text-2xl xl:text-4xl font-black font-[Inter] text-white">
-                Ryze
+                Nova
               </span>
             </div>
             <p className="footer-p text-sm opacity-0 text-slate-400 leading-relaxed">
@@ -194,7 +194,7 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             {/* Copyright */}
             <p className="text-sm text-slate-500">
-              © 2026 Ryze AI. All rights reserved.
+              © 2026 Nova. All rights reserved.
             </p>
 
             {/* Social Links */}

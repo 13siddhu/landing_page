@@ -46,7 +46,7 @@ export default function PhilosophySection() {
     },
     {
       title: "Qualify Intelligently",
-      text: "Not every lead is equal. Ryze filters noise and surfaces high-intent prospects automatically.",
+      text: "Not every lead is equal. Nova filters noise and surfaces high-intent prospects automatically.",
       icon: Target,
     },
     {
@@ -148,7 +148,7 @@ export default function PhilosophySection() {
           <p className="text-lg sm:text-xl text-slate-400 leading-relaxed">
             Most websites still rely on static forms and delayed follow-ups.
             <br className="hidden sm:block" />
-            Ryze replaces that with real-time, intelligent conversations.
+            Nova replaces that with real-time, intelligent conversations.
           </p>
         </div>
 

@@ -66,7 +66,7 @@ export default function CaseProofCard(props: Props) {
       {/* Setup */}
       <div className="mb-5">
         <div className="text-xs font-semibold text-slate-500 mb-2">
-          Ryze AI Setup
+          Nova Setup
         </div>
         <ul className="text-sm text-slate-300 space-y-1">
           {props.setup.map((s, i) => (

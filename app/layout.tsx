@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ryze AI | Autonomous Revenue Intelligence & Orchestration",
+  title: "Nova | Autonomous Revenue Intelligence & Orchestration",
   description: "The world's first autonomous revenue engine that identifies, qualifies, and orchestrates growth across your entire digital ecosystem.",
 };
 

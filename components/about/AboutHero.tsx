@@ -63,7 +63,7 @@ export default function AboutHero() {
             {/* Badge */}
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 backdrop-blur-sm">
               <Sparkles className="w-4 h-4 text-blue-400" />
-              <span className="text-sm font-medium text-blue-300">About Ryze AI</span>
+              <span className="text-sm font-medium text-blue-300">About Nova</span>
             </div>
 
             {/* Main Heading */}
@@ -82,7 +82,7 @@ export default function AboutHero() {
               ref={subheadingRef}
               className="text-lg sm:text-xl lg:text-2xl text-slate-300 leading-relaxed"
             >
-              Ryze AI is designed to engage visitors instantly, qualify intent intelligently, 
+              Nova is designed to engage visitors instantly, qualify intent intelligently, 
               and deliver high-quality leads — without slowing your team down.
             </p>
 
@@ -111,7 +111,7 @@ export default function AboutHero() {
             {/* CTAs */}
             <div ref={ctaRef} className="flex flex-col sm:flex-row gap-4 pt-4">
               <button className="group inline-flex items-center justify-center gap-2 px-6 py-3 bg-linear-to-r from-blue-600 to-cyan-600 rounded-lg font-semibold text-white shadow-lg shadow-blue-500/30 hover:shadow-blue-500/50 hover:scale-105 transition-all duration-300">
-                Explore How Ryze Works
+                Explore How Nova Works
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </button>
               <button className="inline-flex items-center justify-center gap-2 px-6 py-3 text-slate-300 hover:text-white font-medium transition-colors duration-300">
@@ -127,7 +127,7 @@ export default function AboutHero() {
               {/* Central Core */}
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="w-32 h-32 rounded-full bg-linear-to-br from-blue-600 to-cyan-500 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.4)] animate-pulse-slow">
-                 <span className='font-black font-[Inter] text-2xl text-white'>Ryze</span>
+                 <span className='font-black font-[Inter] text-2xl text-white'>Nova</span>
                 </div>
               </div>
 

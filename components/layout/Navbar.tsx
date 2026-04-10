@@ -55,7 +55,7 @@ export default function Navbar() {
                     }
                     `}
                   >
-                    Ryze
+                    Nova
                   </span>
                 </div>
               </Link>
